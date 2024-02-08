@@ -32,8 +32,7 @@ h1 {
 
 .page-container {
   width: 100%;
-  max-width: 1550px;
-  margin: 0 auto;
+  max-width: 1920px;
   display: grid;
   grid-template-columns: 280px 70%;
   grid-template-rows: 1fr;
